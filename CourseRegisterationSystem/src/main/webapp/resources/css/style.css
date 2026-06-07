@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+	body{
+	background-color:beige;
+	}
+	
+	.home{
+		height:75vh;
+	}
+	.borders{
+			border-radius:20px;
+	
+	}
+	.nav{
+		background-color:#e2da89;
+	}
+	.first{
+	margin-top:10rem;
+	
+	}
+	.img1{
+width:400px;
+}
+.img2{
+width:450px;
+}
